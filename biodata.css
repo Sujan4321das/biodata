@@ -1,0 +1,19 @@
+#header{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    background: black;
+    color: white;
+    
+}
+#image{
+    height: 105px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+#space{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
